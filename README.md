@@ -549,6 +549,8 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [massimodeluisa/recursive-decomposition-skill](https://github.com/massimodeluisa/recursive-decomposition-skill) - Handle long-context tasks (100+ files) via decomposition
 - [mcollina/skills](https://github.com/mcollina/skills/tree/main/skills) - Node.js core, Fastify, and TypeScript skills by Matteo Collina
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - High-agency frontend skill to eliminate generic UI slop
+- [stas4000/what-could-break](https://github.com/stas4000/what-could-break) - Finds what a change breaks outside its own diff and proves it by running the code
+- [stas4000/tastegate](https://github.com/stas4000/tastegate) - Renders the page in headless Chromium and gates it on contrast, overlap and layout rules
 </details>
 
 <details>
